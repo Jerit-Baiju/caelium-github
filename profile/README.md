@@ -42,19 +42,25 @@ We welcome contributions from developers, designers, and creatives alike. Here�
 
 We are committed to maintaining a respectful and inclusive community. Please refer to our [Code of Conduct](CODE_OF_CONDUCT.md) for guidelines on respectful collaboration.
 
+> [!IMPORTANT]
+> **We will not tolerate harassment, hate speech, or any behavior that disrupts the community. Please report violations as outlined in the Code of Conduct.**
+
 ## 📄 License
 
-Caelium is open source under the **GNU Affero General Public License v3.0 (AGPL-3.0)**, which requires that any modifications made to Caelium must be open-sourced when distributed over a network. This ensures that Caelium remains freely available for the community, while any derived works contribute back to the original project.
+Caelium is open source under the **GNU Affero General Public License v3.0 (AGPL-3.0)**, which requires that any modifications made to Caelium must be open-sourced when distributed over a network. This ensures that Caelium remains freely available for the community while any derived works contribute back to the original project.
 
 ### Contributor License Agreement (CLA)
 
 To maintain clarity on contributions and ensure compliance with our license, all contributors are required to sign a Contributor License Agreement (CLA). This agreement confirms that you retain copyright over your contributions, but you grant us the rights to use and distribute them as part of Caelium. A link to sign the CLA will be provided during the pull request process.
 
+> [!NOTE]
+> You can review the CLA [here](CLA.md).
+
 ## 📞 Contact Us
 
 Feel free to reach out if you have any questions or suggestions. We're here to build this community with you!
 
-- **Email**: dev@jerit.in
+- **Email**: [dev@jerit.in](mailto:dev@jerit.in)
 - **GitHub Issues**: You can also reach out via issues or discussions on our GitHub repositories.
 
 ---
