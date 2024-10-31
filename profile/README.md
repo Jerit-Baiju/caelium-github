@@ -60,5 +60,5 @@ To maintain clarity on contributions and ensure compliance with our license, all
 
 Feel free to reach out if you have any questions or suggestions. We're here to build this community with you!
 
-- **Email**: [caelium@jerit.in](mailto:dev@jerit.in)
+- **Email**: [caelium@jerit.in](mailto:caelium@jerit.in)
 - **GitHub Issues**: You can also reach out via issues or discussions on our GitHub repositories.
