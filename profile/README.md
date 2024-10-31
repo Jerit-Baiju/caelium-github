@@ -51,7 +51,7 @@ Caelium is open source under the **GNU Affero General Public License v3.0 (AGPL-
 
 ### Contributor License Agreement (CLA)
 
-To maintain clarity on contributions and ensure compliance with our license, all contributors are required to sign a Contributor License Agreement (CLA). This agreement confirms that you retain copyright over your contributions, but you grant us the rights to use and distribute them as part of Caelium. A link to sign the CLA will be provided during the pull request process.
+To maintain clarity on contributions and ensure compliance with our license, all contributors are required to agree to a Contributor License Agreement (CLA). By submitting a contribution, you confirm that you retain copyright over your work, while granting us the rights to use and distribute it as part of Caelium. By making a pull request, you acknowledge and accept the terms of the CLA without the need for a separate signature or link.
 
 > [!NOTE]
 > You can review the [Contributor License Agreement](../CLA.md).
@@ -60,5 +60,5 @@ To maintain clarity on contributions and ensure compliance with our license, all
 
 Feel free to reach out if you have any questions or suggestions. We're here to build this community with you!
 
-- **Email**: [dev@jerit.in](mailto:dev@jerit.in)
+- **Email**: [caelium@jerit.in](mailto:dev@jerit.in)
 - **GitHub Issues**: You can also reach out via issues or discussions on our GitHub repositories.
