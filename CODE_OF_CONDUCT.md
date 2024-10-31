@@ -1,66 +1,69 @@
-# Contributor Code of Conduct
+# Caelium Code of Conduct
 
-Welcome to the Caelium organization! This Code of Conduct outlines the expectations for participation in our project to foster an open, collaborative, and respectful environment. All contributors must adhere to this Code of Conduct. By contributing, you agree to comply with these guidelines and work together to help Caelium grow as a meaningful, reliable social media platform for everyone.
+## Our Pledge
 
----
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## 1. Our Standards
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-To maintain a welcoming and positive community, all contributors and participants are expected to:
+## Our Standards
 
-- Be respectful of differing opinions, viewpoints, and experiences.
-- Use inclusive, welcoming language, and refrain from discriminatory remarks or harassment.
-- Accept constructive feedback gracefully and use it to improve your contributions.
-- Focus on what is best for Caelium and its users.
-- Stay professional and considerate in all interactions, whether in issues, pull requests, discussions, or private correspondence.
+Examples of behavior that contributes to a positive environment for our community include:
 
-> [!NOTE]
-> We will not tolerate:
-> - Hate speech, harassment, or personal attacks.
-> - Publishing others’ private information, such as email addresses, without explicit permission.
-> - Unauthorized use of Caelium’s branding, including the project’s name and logo.
-> - Attempts to fork and rebrand Caelium without prior discussion and approval from organization maintainers.
+- Being respectful of differing opinions, viewpoints, and experiences.
+- Giving and gracefully accepting constructive feedback.
+- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience.
+- Focusing on what is best not just for us as individuals, but for the overall community.
 
-## 2. Scope
+Examples of unacceptable behavior include:
 
-This Code of Conduct applies within all project spaces, including repositories, discussions, pull requests, issues, and private communications directly associated with Caelium. It also applies to any public spaces where contributors or maintainers are representing Caelium.
-
-## 3. Licensing and Contributions
-
-### Open Source Licensing
-
-This project is licensed under the **GNU Affero General Public License (AGPL)**, which means:
-
-- **Forks and Derivative Works**: You may fork and modify the codebase, but public instances of modified versions must also make their source code accessible to users.
-- **Branding**: Caelium’s name and logo are protected by this Code of Conduct. Unauthorized rebranding or misuse of Caelium’s visual identity is prohibited.
+- The use of sexualized language or imagery, and sexual attention or advances of any kind.
+- Trolling, insulting or derogatory comments, and personal or political attacks.
+- Public or private harassment.
+- Publishing others' private information, such as a physical or email address, without their explicit permission.
+- Other conduct which could reasonably be considered inappropriate in a professional setting.
 
 > [!IMPORTANT]
-> By contributing, you agree that all contributions are made under this AGPL license and must adhere to the same open-source principles.
+> Caelium will not tolerate harassment, hate speech, or any behavior that disrupts the community.
 
-### Contributor License Agreement (CLA)
+## Reporting and Enforcement
 
-All contributors must agree to the Caelium Contributor License Agreement (CLA), which assigns non-exclusive rights for contributions to the Caelium organization. This agreement ensures that all code remains accessible and compatible with the AGPL license.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Caelium team at [dev@jerit.in](mailto:dev@jerit.in). All complaints will be reviewed and investigated promptly and fairly.
+
+### Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
 > [!NOTE]
-> You can review the CLA [here](./CLA.md).
+> **Your report will be confidential.** Any retaliation against individuals reporting issues will be dealt with severely.
 
-## 4. Reporting Violations
+## Enforcement Guidelines
 
-If you experience or observe unacceptable behavior, please report it to our moderation team at [support@caelium.co]. All reports are confidential, and actions will be taken as necessary to uphold the integrity and inclusivity of our community.
+Community leaders will follow these guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-Violations may result in a warning, temporary ban, or permanent ban from the project and all associated repositories.
+1. **Correction**  
+   *Community Impact*: A violation through a single, isolated incident.  
+   *Consequence*: A private, written warning from community leaders.
 
-## 5. Enforcement
+2. **Warning**  
+   *Community Impact*: A violation through a series of incidents.  
+   *Consequence*: A warning with consequences for continued behavior, such as a temporary ban.
 
-Organization maintainers are responsible for clarifying and enforcing this Code of Conduct. We reserve the right to:
+3. **Temporary Ban**  
+   *Community Impact*: A major violation of community standards.  
+   *Consequence*: A temporary ban from interaction or contribution.
 
-- Address any behavior that disrupts the inclusive, collaborative nature of Caelium.
-- Remove content that violates these guidelines.
-- Implement temporary or permanent bans for participants who violate this Code of Conduct.
+4. **Permanent Ban**  
+   *Community Impact*: Demonstrating a pattern of behavior that violates community standards, including prolonged harassment or aggression.  
+   *Consequence*: A permanent ban from the community.
 
-> [!IMPORTANT]
-> We believe that, with your help, we can build Caelium into a truly open, secure, and innovative platform. Thank you for contributing to our community and making it a place for all to thrive!
+## Scope
 
----
+This Code of Conduct applies within all community spaces and in public spaces when an individual is representing the project or its community. Examples include using an official project email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-By participating in Caelium, you confirm that you understand and agree to this Code of Conduct. Let’s build something amazing together!
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+
+> [!NOTE]
+> By contributing to Caelium, you agree to abide by this Code of Conduct and help us build a safe, inclusive, and constructive environment.
