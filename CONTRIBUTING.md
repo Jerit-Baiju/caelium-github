@@ -16,6 +16,7 @@ To protect Caelium and its contributors, all contributions require signing a [Co
 
 > [!NOTE]
 > You will be prompted to sign the CLA when making your first pull request. This is a one-time process, and you won't need to sign it again for future contributions.
+
 ## Contribution Areas
 
 Here are some key areas where you can contribute:
@@ -25,3 +26,9 @@ Here are some key areas where you can contribute:
 - **UI/UX Design**: Creating a cohesive, user-friendly experience.
 - **Documentation**: Writing or refining documentation for clarity.
 - **Testing**: Adding or updating tests to ensure stability across features.
+
+## Issues and Feature Suggestions
+
+If you have any feature suggestions, bug fixes, or general inquiries related to Caelium, please don’t hesitate to raise an issue in our [GitHub repository](https://github.com/CaeliumHQ/.github/issues). Your feedback is invaluable to us and helps improve the platform for everyone.
+
+Together, let’s build something great!

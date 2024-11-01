@@ -3,6 +3,15 @@
 **Welcome to Caelium!**  
 A unified digital space designed to bring communities together through a multifunctional, social environment app. At Caelium, we believe in building a cohesive platform that lets users manage everything from social interactions to daily tasks, media, and personal growth in one integrated environment.
 
+## 🌟 Interested in Contributing?
+
+If you're excited about contributing to Caelium and want to help us build a vibrant community, check out our detailed documentation! Here are the steps to get started: 
+
+- **[Get Started with Contributing](../GETTING_STARTED.md)**
+
+Your skills can make a significant impact, and we can't wait to see what you bring to the Caelium community!
+
+
 ## 🌐 What We're All About
 
 **Caelium** is a dynamic organization focused on creating cutting-edge web applications that blend social media, task management, and personal exploration. Our flagship project, the **Caelium App**, is a Progressive Web App (PWA) offering unique features, including peer-to-peer chat, a task management dashboard, a Google Photos-synced gallery, interactive blogging, and more. Our goal is to empower users with highly customizable, socially immersive, and interactive tools in a single, unified platform.
