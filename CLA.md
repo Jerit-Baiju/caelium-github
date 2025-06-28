@@ -1,4 +1,5 @@
-Here’s the `CLA.md` with the appropriate formatting for emphasis using Markdown:
+# Contributor License Agreement 
+Thank you for your interest in contributing to Caelium! This Contributor License Agreement (CLA) outlines the terms under which you are submitting contributions to Caelium.the `CLA.md` with the appropriate formatting for emphasis using Markdown:
 
 ---
 
