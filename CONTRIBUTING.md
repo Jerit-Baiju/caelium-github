@@ -17,6 +17,30 @@ To protect Caelium and its contributors, all contributions require signing a [Co
 > [!NOTE]
 > You will be prompted to sign the CLA when making your first pull request. This is a one-time process, and you won't need to sign it again for future contributions.
 
+## Getting Started
+
+Before contributing, please review our [Getting Started Guide](GETTING_STARTED.md) for information on setting up your development environment and understanding our project structure.
+
+## How to Contribute
+
+We welcome contributions in many forms! Here's how to get started:
+
+1. **Fork the repository** to your GitHub account.
+2. **Clone your fork** to your local machine.
+3. **Create a new branch** for your feature or bug fix:
+   ```bash
+   git checkout -b feature/my-new-feature
+   ```
+4. **Make changes** to the codebase and commit them:
+   ```bash
+   git commit -m "Add new feature"
+   ```
+5. **Push your changes** to your fork:
+   ```bash
+   git push origin feature/my-new-feature
+   ```
+6. **Create a pull request** with a description of what you've changed and why.
+
 ## Contribution Areas
 
 Here are some key areas where you can contribute:
@@ -29,6 +53,16 @@ Here are some key areas where you can contribute:
 
 ## Issues and Feature Suggestions
 
-If you have any feature suggestions, bug fixes, or general inquiries related to Caelium, please don’t hesitate to raise an issue in our [GitHub repository](https://github.com/CaeliumHQ/.github/issues). Your feedback is invaluable to us and helps improve the platform for everyone.
+If you have any feature suggestions, bug fixes, or general inquiries related to Caelium, please don't hesitate to raise an issue in our [GitHub repository](https://github.com/CaeliumHQ/.github/issues). Your feedback is invaluable to us and helps improve the platform for everyone.
 
-Together, let’s build something great!
+## Pull Request Guidelines
+
+When submitting a pull request:
+
+- Ensure your code follows our coding standards
+- Include tests for new features or bug fixes
+- Update documentation as needed
+- Write clear, descriptive commit messages
+- Reference any related issues in your pull request description
+
+Together, let's build something great!
